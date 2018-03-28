@@ -1,0 +1,21 @@
+﻿  Vectors.cpp
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(6): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(23): warning C4477: 'printf' : format string '%2.2f' requires an argument of type 'double', but variadic argument 2 has type 'const int'
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(23): warning C4477: 'printf' : format string '%2.2f' requires an argument of type 'double', but variadic argument 3 has type 'const int'
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(27): warning C4477: 'printf' : format string '%2.2f' requires an argument of type 'double', but variadic argument 2 has type 'const int'
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(27): warning C4477: 'printf' : format string '%2.2f' requires an argument of type 'double', but variadic argument 3 has type 'const int'
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(27): warning C4476: 'printf' : unknown type field character '>' in format specifier
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(27): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(27): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(31): warning C4477: 'printf' : format string '%2.2f' requires an argument of type 'double', but variadic argument 2 has type 'const int'
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(31): warning C4477: 'printf' : format string '%2.2f' requires an argument of type 'double', but variadic argument 3 has type 'const int'
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(31): warning C4476: 'printf' : unknown type field character ',' in format specifier
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(31): warning C4476: 'printf' : unknown type field character '>' in format specifier
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(31): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(31): note: placeholders and their parameters expect 3 variadic arguments, but 5 were provided
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\mikakau\source\repos\vectors\vectors\vectors.cpp(54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+  Generating Code...
+  Vectors.vcxproj -> C:\Users\MikaKau\source\repos\vectors\x64\Debug\Vectors.exe
+  Vectors.vcxproj -> C:\Users\MikaKau\source\repos\vectors\x64\Debug\Vectors.pdb (Partial PDB)
